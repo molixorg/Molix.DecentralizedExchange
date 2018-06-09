@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Common.DataLayer/bin/Debug
+/Common.DataLayer/obj/Debug
+/Common.Domain/bin/Debug
+/Common.Domain/obj/Debug
+/Common.Entities/bin/Debug
+/Common.Entities/obj/Debug
+/Common.SymmetricEncryption/bin/Debug
+/Common.SymmetricEncryption/obj/Debug
+/Common.TP.Service/bin/Debug
+/Common.TP.Service/obj/Debug
+/packages
